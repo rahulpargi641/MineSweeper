@@ -38,4 +38,4 @@
   ## Play the Game
 
     - To experience the game firsthand, play it directly by following this repl link.
-  [Repl link](https://github.com/rahulpargi641/Minesweeper-Console/assets/61396833/13c9c9ee-9b27-4ccc-9397-227d65431551)
+  [Repl link](https://replit.com/@RahulPargi/MineSweeper#GameManager.cpp)
